@@ -22,7 +22,6 @@ missing-value imputation, outlier handling, and normalization (pipeline: impute 
 ## Requirements
 
 - Python 3.10+ recommended (3.9 may work, but not guaranteed)
-- Packages listed in `requirements.txt`
 
 ## Setup
 
