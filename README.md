@@ -3,7 +3,7 @@
 Code repository for the paper:
 
 **CUMULUS: Cleaning, Unifying, and Modeling Unstable Eye-tracking Signals**  
-Jennifer Landes, Meike Klettke, Sonja Koeppl
+
 
 This repository provides the implementation used to benchmark common preprocessing stages for eye-tracking time series:
 missing-value imputation, outlier handling, and normalization (pipeline: impute → outlier → normalize).
