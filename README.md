@@ -13,10 +13,10 @@ missing-value imputation, outlier handling, and normalization (pipeline: impute 
 - `notebooks/cumulus_clean.ipynb`  
   Main notebook to reproduce the preprocessing benchmark and export results (CSV) and optional figures.
 
-- `results/` (generated)  
+- `results/` 
   Output tables (e.g., imputation/outlier/normalization summaries).
 
-- `figures/` (optional, generated)  
+- `figures/`  
   Plots used for inspection and (optionally) paper figures.
 
 ## Requirements
