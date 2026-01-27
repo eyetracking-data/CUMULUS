@@ -1,16 +1,11 @@
 # CUMULUS — Cleaning, Unifying, and Modeling Unstable Eye-tracking Signals
 
-Code repository for the paper:
-
-**CUMULUS: Cleaning, Unifying, and Modeling Unstable Eye-tracking Signals**  
-
-
 This repository provides the implementation used to benchmark common preprocessing stages for eye-tracking time series:
 missing-value imputation, outlier handling, and normalization (pipeline: impute → outlier → normalize).
 
 ## What this repo contains
 
-- `notebooks/cumulus_clean.ipynb`  
+- `cumulus_clean.ipynb`  
   Main notebook to reproduce the preprocessing benchmark and export results (CSV) and optional figures.
 
 - `results/` 
