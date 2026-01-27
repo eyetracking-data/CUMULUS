@@ -17,8 +17,8 @@ CUMULUS/
 ├── CUMULUS.ipynb   # Main benchmark notebook
 ├── data/
 │   └── raw/                      # Raw eye-tracking CSV files (not included)
-├── results/                      # Generated result tables (CSV)
-├── figures/                      # Generated figures (optional)
+├── results/                      # resuts.pdf
+├── figures/                      # figures 
 ├── requirements.txt              # Python dependencies
 └── README.md
 ```
