@@ -14,7 +14,7 @@ The focus is on reconstruction accuracy and distributional stability rather than
 
 ```text
 CUMULUS/
-├── CUMULUS_paper_aligned.ipynb   # Main benchmark notebook (paper-aligned)
+├── CUMULUS.ipynb   # Main benchmark notebook
 ├── data/
 │   └── raw/                      # Raw eye-tracking CSV files (not included)
 ├── results/                      # Generated result tables (CSV)
