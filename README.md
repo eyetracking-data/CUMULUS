@@ -76,7 +76,7 @@ Dependencies include:
 Run the benchmark on one or more dataset directories:
 
 ``` bash
-python cumulus_benchmark.py   --datasets /path/to/dataset1 /path/to/dataset2   --output-dir /path/to/results   --recursive
+python cumulus.py   --datasets /path/to/dataset1 /path/to/dataset2   --output-dir /path/to/results   --recursive
 ```
 
 ### Optional Flags
